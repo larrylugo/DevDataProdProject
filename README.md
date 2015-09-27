@@ -1,4 +1,4 @@
-#Developing Data Productos Project - Shiny app
+#Developing Data Products Project - Shiny app
 
 ## About this app
 
@@ -87,6 +87,6 @@ Customize your UI with HTML: http://shiny.rstudio.com/articles/html-tags.html
 
 ## References
 
-Gassert, F., M. Luck, M. Landis, P. Reig, and T. Shiao. 2013. ìAqueduct Global Maps 2.0.î Working Paper. Washington, DC: World Resources Institute. Available online†at http://wri.org/publication/aqueduct-metadata-global.
+Gassert, F., M. Luck, M. Landis, P. Reig, and T. Shiao. 2013. ‚ÄúAqueduct Global Maps 2.0.‚Äù Working Paper. Washington, DC: World Resources Institute. Available online¬†at http://wri.org/publication/aqueduct-metadata-global.
 
 Walker, A.P., I. Aranda, A.P. Beckerman, H. Bown, L.A. Cernusak, Q.L. Dang, T.F. Domingues, L. Gu, S. Guo, Q. Han, J. Kattge, M. Kubiske, D. Manter, E. Merilo, G. Midgley, A. Porte, J.C. Scales, D. Tissue, T. Turnbull, C. Warren, G. Wohlfahrt, F.I. Woodward, and S.D. Wullschleger. 2014. A Global Data Set of Leaf Photosynthetic Rates, Leaf N and P, and Specific Leaf Area. Data set. Available on-line [http://daac.ornl.gov] from Oak Ridge National Laboratory Distributed Active Archive Center, Oak Ridge, Tennessee, USA. http://dx.doi.org/10.3334/ORNLDAAC/1224
